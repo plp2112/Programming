@@ -1,0 +1,24 @@
+{
+    "MovieList": [
+        {
+            "name": "Terminator",
+            "genre": "action",
+            "star": "Schwarzenegger"
+        },
+        {
+            "name": "PrettyWoman",
+            "genre": "romcom",
+            "star": "Roberts"
+        },
+        {
+            "name": "Clueless",
+            "genre": "romcom",
+            "star": "Silverstone"
+        },
+        {
+            "name": "Fugitive",
+            "genre": "action",
+            "star": "Ford"
+        }
+    ]
+}
